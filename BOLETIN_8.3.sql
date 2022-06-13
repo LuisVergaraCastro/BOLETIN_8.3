@@ -1,10 +1,9 @@
 --Boletín 8.3
 --Consultas sencillas
-
 --AdventureWorks
-
+USE AdventureWorksLT2012
 --1.Nombre del producto, código y precio, ordenado de mayor a menor precio
-
+SELECT * FROM 
 --2.Número de direcciones de cada Estado/Provincia
 
 --3.Nombre del producto, código, número, tamaño y peso de los productos
